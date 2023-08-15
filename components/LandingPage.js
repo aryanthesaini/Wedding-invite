@@ -9,8 +9,7 @@ export default function LandingPage() {
           <Typewriter
             onInit={(typewriter) => {
               typewriter
-
-                .typeString('Daniel Weds Hannah ')
+                .typeString('Aaditya and Shubhati ')
 
                 .start();
             }}
@@ -24,7 +23,7 @@ export default function LandingPage() {
             onInit={(typewriter) => {
               typewriter
 
-                .typeString(' <b>August 25, 2025</b> at Fort Leburg City Hall')
+                .typeString(' <b>August 21, 2023</b> at Fort Leburg City Hall')
 
                 .start();
             }}
