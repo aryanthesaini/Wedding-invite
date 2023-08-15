@@ -23,7 +23,9 @@ export default function LandingPage() {
             onInit={(typewriter) => {
               typewriter
 
-                .typeString(' <b>August 21, 2023</b> at Fort Leburg City Hall')
+                .typeString(
+                  ' <b>August 21, 2023</b> at Some Banquet, Delhi Hall'
+                )
 
                 .start();
             }}
